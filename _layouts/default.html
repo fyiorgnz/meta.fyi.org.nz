@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body>
+  {% include header.html %}
+  <div id="wrapper">
+    <div id="content">
+      <div id="help_about" class="controller_help">
+        {% include sidebar.html %}
+
+        <div id="left_column_flip">
+          {{ content }}
+        </div>
+      </div>
+      <div style="clear:both"></div>
+    </div>
+  </div>
+
+  {% include footer.html %}
+</body>
+</html>
+

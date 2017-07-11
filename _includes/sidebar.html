@@ -1,0 +1,13 @@
+<div id="right_column_flip">
+    <h2>Help pages</h2>
+    <ul class="no_bullets">
+      {% for page in site.pages %} {% if page.title %}
+      <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+      {% endif %} {% endfor %}
+    </ul>
+
+    <h2 id="contact">Contact us</h2>
+    <p>If your question isn't answered here, or you just wanted to let us know
+    something about the site, <a href="/help/contact">contact&nbsp;us</a>.
+    </p>
+</div>

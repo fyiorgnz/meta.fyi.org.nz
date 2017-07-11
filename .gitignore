@@ -1,3 +1,9 @@
 _site
+.bundle
 .sass-cache
 .jekyll-metadata
+# jekyll appears to auto-generate some files in here, exclude by permit *.scss
+css/*
+!css/*.scss
+Gemfile.lock
+vendor/
