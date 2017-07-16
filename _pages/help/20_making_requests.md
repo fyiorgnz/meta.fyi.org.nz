@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Making requests with FYI
-permalink: /making-requests/
+permalink: /help/making-requests/
+tags: helppage
 ---
 
 ## <a name="which_authority" />I'm not sure which authority to make my request to, how can I find out? [#](#which_authority)
@@ -12,11 +13,11 @@ It can be hard to untangle government's complicated structured, and work out who
 *   When you've found an authority you think might have the information, use the "home page" link on the right hand side of their page to check what they do on their website.
 *   Contact the authority by phone or email to ask if they hold the kind of information you're after.
 *   Don't worry excessively about getting the right authority. If you get it wrong, they ought to advise you who to make the request to instead.
-*   If you've got a thorny case, please [contact us](/help/contact) for help.
+*   If you've got a thorny case, please [contact us](https://fyi.org.nz/help/contact) for help.
 
 ## <a name="missing_body" />You're missing the public authority that I want to request from! [#](#missing_body)
 
-Please [contact us](/help/contact) with the name of the public authority and, if you can find it, their contact email address for Official Information Act requests.
+Please [contact us](https://fyi.org.nz/help/contact) with the name of the public authority and, if you can find it, their contact email address for Official Information Act requests.
 
 If you'd like to help add a whole category of public authority to the site, we'd love to hear from you too.
 
@@ -86,13 +87,13 @@ If you would like to know what information an organisation holds about you, you 
 
 For more information about your right to access your own private information, consult the Privacy Commissioner's guide to [Privacy Principle Six](https://privacy.org.nz/the-privacy-act-and-codes/privacy-principles/access/ "Privacy Commissioner: Privacy Principle Six").
 
-If you see that someone has included personal information, perhaps unwittingly, in a request, please [contact us](/help/contact) immediately so we can remove it.
+If you see that someone has included personal information, perhaps unwittingly, in a request, please [contact us](https://fyi.org.nz/help/contact) immediately so we can remove it.
 
 ## <a name="private_requests" />I'd like to keep my request secret! (At least until I publish my story) [#](#private_requests)
 
 FYI is currently only designed for public requests. All responses that we receive are automatically published on the website for anyone to read.
 
-You should contact the public authority directly if you would like to make a request in private. If you're interested in buying a system which helps you manage OIA requests in secret, then [contact us](/help/contact).
+You should contact the public authority directly if you would like to make a request in private. If you're interested in buying a system which helps you manage OIA requests in secret, then [contact us](https://fyi.org.nz/help/contact).
 
 ## <a name="multiple" />Can I make the same to request to lots of authorities, e.g. all councils? [#](#multiple)
 

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About FYI.org.nz
-permalink: /about/
+permalink: /help/about/
+tags: helppage
 ---
 
 ## <a name="what_is" />What is FYI? [#](#what_is)
@@ -60,7 +61,7 @@ You will be emailed if this date goes by without a response, so you can send the
 
 **Note:** If you had to clarify your request, the clock starts from that date, instead of the date they received your initial request.
 
-See '[You've incorrectly calculated our deadline!](#wrong-deadline "You've incorrectly calulated our deadline")' for more details.
+See '[How do you calculate the deadline shown on request pages?](/help/officers#days "How do you calculate the deadline shown on request pages?")' for more details.
 
 ### <a name="good-reason"></a>What counts as a 'good reason' reason for a government department to not fulfill my request?
 
@@ -80,7 +81,7 @@ Please [contact us](http://fyi.org.nz/help/contact) with the name of the departm
 
 ### What if I'm not satisfied with the response?
 
-If you didn't get the information you asked for, or you didn't get it in time, then read our page '[Unhappy about the response you got?](http://fyi.org.nz/help/unhappy "Unhappy about the response you got?")'.
+If you didn't get the information you asked for, or you didn't get it in time, then read our page '[Unhappy about the response you got?](/help/unhappy "Unhappy about the response you got?")'.
 
 ### Why should I keep my request focused?
 
@@ -101,8 +102,8 @@ We ask you to first send a test version of your request to a few organisations. 
 There are several things you can do if you never get a response.
 
 *   Sometimes there has been a genuine problem and the department never received the request. It is worth telephoning the organisation and politely checking that they received the request. It was sent to them by email.
-*   If they have not received it, the problem is most likely due to 'spam filters'. Refer the department to the measures in the answer '[I can see a request on FYI, but we never got it by email!](#never-got-email "I can see a request on FYI, but we never got it by email!")' below.
-*   If you're still having no luck, then you can ask for an internal review, and then complain to the Ombudsman about the department. Read our page '[Unhappy about the response you got?](http://fyi.org.nz/help/unhappy "Unhappy about the response you got?")'.
+*   If they have not received it, the problem is most likely due to 'spam filters'. Refer the department to the measures in the answer '[I can see a request on FYI, but we never got it by email!](/help/officers/#spam_problems "I can see a request on FYI, but we never got it by email!")' below.
+*   If you're still having no luck, then you can ask for an internal review, and then complain to the Ombudsman about the department. Read our page '[Unhappy about the response you got?](/help/unhappy "Unhappy about the response you got?")'.
 
 ### How do you moderate request annotations?
 

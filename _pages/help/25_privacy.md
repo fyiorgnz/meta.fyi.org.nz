@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Privacy Issues
-permalink: /privacy/
+permalink: /help/privacy/
+tags: helppage
 ---
 
 ## <a name="email_address" />Who gets to see my email address? [#](#email_address)
@@ -35,7 +36,7 @@ There are several good alternatives to using a pseudonym.
 *   In most cases, you may use any name by which you are "widely known and/or is regularly used".
 *   Use the name of an organisation, the name of a company, the trading name of a company, or the trading name of a sole trader.
 *   Ask someone else to make the request on your behalf.
-*   You may, if you are really stuck, ask us to make the request on your behalf. Please [contact us](/help/contact) with a good reason why you cannot make the request yourself and cannot ask a friend to. We don't have the resources to do this for everyone.
+*   You may, if you are really stuck, ask us to make the request on your behalf. Please [contact us](https://fyi.org.nz/help/contact) with a good reason why you cannot make the request yourself and cannot ask a friend to. We don't have the resources to do this for everyone.
 
 Please do not try to impersonate someone else.
 
@@ -56,7 +57,7 @@ If you're worried about this before you make your request, see the section on [p
 
 ## <a name="takedown" />Can you take down personal information about me? [#](#takedown)
 
-If you see any personal information about you on the site which you'd like us to remove or hide, then please [let us know](/help/contact). Specify exactly what information you believe to be problematic and why, and where it appears on the site.
+If you see any personal information about you on the site which you'd like us to remove or hide, then please [let us know](https://fyi.org.nz/help/contact). Specify exactly what information you believe to be problematic and why, and where it appears on the site.
 
 If it is sensitive personal information that has been accidentally posted, then we will usually remove it. Normally we will only consider requests to remove personal information which come from the individual concerned, but for sensitive information we would appreciate anyone pointing out anything they see.
 
