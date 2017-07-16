@@ -1,5 +1,13 @@
 <meta charset="utf-8">
-<title>foo</title>
+{% if page.layout == "page" %}
+{% if page.tags contains "helppage" %}
+<title>FYI Help: {{page.title}}</title>
+{% else %}
+<title>{{page.title}}</title>
+{% endif %}
+{% else %}
+<title>FYI Blog: {{page.title}}</title>
+{% endif %}
 
 <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
