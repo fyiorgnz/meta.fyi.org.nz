@@ -32,8 +32,7 @@ However using an obvious pseudonym will probably make it impossible for you to c
 There are several good alternatives to using a pseudonym.
 
 *   Use a different form of your name. The UK experience is that that "Mr Arthur Thomas Roberts" can make a valid request as "Arthur Roberts", "A. T. Roberts", or "Mr Roberts", but **not** as "Arthur" or "A.T.R.".
-*   Women may use their maiden name.
-*   In most cases, you may use any name by which you are "widely known and/or is regularly used".
+*   In most cases, you may use any name by which you are "widely known and/or is regularly used", or a previous legal name (such as before marriage).
 *   Use the name of an organisation, the name of a company, the trading name of a company, or the trading name of a sole trader.
 *   Ask someone else to make the request on your behalf.
 *   You may, if you are really stuck, ask us to make the request on your behalf. Please [contact us](https://fyi.org.nz/help/contact) with a good reason why you cannot make the request yourself and cannot ask a friend to. We don't have the resources to do this for everyone.
