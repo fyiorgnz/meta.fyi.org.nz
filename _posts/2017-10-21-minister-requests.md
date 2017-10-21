@@ -18,7 +18,7 @@ We now have the chance to put things right, once the old Ministerial warrants fo
 
     These new authorities will be in the form of “Minister for Sunshine (James Gordon)”, “Associate Minister for Sunshine (Kate Kane)”, “Associate Minister for Sunshine (Jack Ryder)”, “Parliamentary Under-Secretary for Sunshine (Harley Quinn)”, etc.  (We find it unlikely there will be a Minister for Sunshine however)
 
-    We are unsure how long this will take, as it’s plausible that not all e-mail addresses will be published immediately.  In case we cannot complete this process in one go, visit [linky] where will update our progress.
+    We are unsure how long this will take, as it’s plausible that not all e-mail addresses will be published immediately.  In case we cannot complete this process in one go, we will post updates at our [post-General Election 2017 Updates page](/election-2017/).
 3.  You’ll be able to make requests to the new authorities!
 
 We envision that requests that are still pending responses from Ministers about to resign their Ministerial warrants will be transferred properly, as required, if however you don’t hear anything and the request is still pending, feel free to report the request for Administrator Attention and we can move the request and attempt to rectify the situation.
