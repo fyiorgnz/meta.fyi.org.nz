@@ -7,7 +7,7 @@ categories: news
 
 The change in Government this coming week has given us time to consider how users of FYI.org.nz make requests to Ministers, Associate Ministers and Parliamentary Under-Secretaries.
 
-In the past, we have added each portfolio as a requestable authority - such as "Minister of Education" - with requests send to whichever individual holds that role at the time.
+In the past, we have added each portfolio as a requestable authority - such as "Minister of Education" - with requests sent to whichever individual holds that role at the time.
 
 In the past few years especially, there have been a number of people assigned roles in the latter two functions, and based on recent media reports the roles will continue to exist.  This creates a challenge for the old way of doing things where we worked on the assumption that there is 1 Minister, 0-1 Associate Ministers and 0-1 Parliamentary Under-Secretary.  Some roles are naturally quite large, or there is a desire to spread the work and we’ve started seeing portfolios such as Education getting split amongst 4 people.
 
