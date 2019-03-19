@@ -11,9 +11,9 @@ We understand that people desire answers from public agencies, the purpose for w
 
 Since Friday we have closely monitored use of our platform.  We decided to unpublish three requests which we felt were inappropriate for publication at this time, and redacted references to a website that has shared footage of the shootings. Requests which are unpublished are otherwise fully functional for the requester, and of course anyone can still make a request direct to an agency without FYI.org.nz.
 
-Abuse, threats, and harassment have never been acceptable on FYI.org.nz, with such content being fully hidden and users suspended when it comes to our attention. Thankfully this is rare. However, other undesirable activity in recent years had already led us to begin considering new moderation policies and this work will now be brought forward.
+Abuse, threats, and harassment have never been acceptable on FYI.org.nz, with such content being fully hidden and users suspended when it comes to our attention. Thankfully such behaviour is rare and did not happen in this event. However, other undesirable activity in recent years had already led us to begin considering new moderation policies and this work will now be brought forward.
 
-Until our full moderation policy is in place, effective immediately, we will unpublish certain requests which we consider harmful to the public good. This specifically includes requests that:
+Until our full moderation policy is in place we will, effective immediately, unpublish certain requests which we consider harmful to the public good. This specifically includes requests that:
 
 * make allegations which may be offensive, rather than reference notable source material (such as news reports);
 * use inflammatory or disrespectful language;
